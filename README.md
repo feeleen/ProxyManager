@@ -8,6 +8,8 @@ A lightweight Windows application for managing system proxy settings with profil
 
 ## Features
 
+<img width="589" height="502" alt="image" src="https://github.com/user-attachments/assets/ff3bdfd6-533b-4ace-b6d1-aa89b98fad1c" />
+
 ### 🔧 Proxy Configuration
 - **Automatic detection** - Automatically detect proxy settings
 - **PAC Script support** - Use automatic configuration scripts
